@@ -2,7 +2,7 @@ name: update proxies.json
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "0 */3 * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -40,3 +40,11 @@ jobs:
           git add proxies.json
           git commit -m "Update proxies.json [skip ci]"
           git push
+
+      - name: Push to n8n
+        run: |
+          # 将抓取到的代理数据实时发送到 n8n 的 Webhook
+          curl -X POST \
+            -H "Content-Type: application/json" \
+            -d @proxies.json \
+            https://n8n.ulife.vip/webhook/proxy-update
