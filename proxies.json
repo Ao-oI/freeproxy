@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14 15:49:52 UTC",
+  "updated_at": "2026-04-14 17:11:03 UTC",
   "count": 3448,
   "data": [
     {
@@ -91,18 +91,18 @@
       "speed": 1092
     },
     {
-      "ip": "13.212.14.16",
-      "port": 180,
-      "protocol": "Https",
-      "country": "SG",
-      "anonymity": "Elite",
-      "speed": 1105
-    },
-    {
       "ip": "112.118.187.149",
       "port": 8080,
       "protocol": "Http",
       "country": "HK",
+      "anonymity": "Elite",
+      "speed": 1105
+    },
+    {
+      "ip": "13.212.14.16",
+      "port": 180,
+      "protocol": "Https",
+      "country": "SG",
       "anonymity": "Elite",
       "speed": 1105
     },
@@ -172,16 +172,16 @@
     },
     {
       "ip": "13.212.14.16",
-      "port": 11734,
-      "protocol": "Socks5",
+      "port": 376,
+      "protocol": "Https",
       "country": "SG",
       "anonymity": "Elite",
       "speed": 1285
     },
     {
       "ip": "13.212.14.16",
-      "port": 376,
-      "protocol": "Https",
+      "port": 11734,
+      "protocol": "Socks5",
       "country": "SG",
       "anonymity": "Elite",
       "speed": 1285
