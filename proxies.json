@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20 21:50:03 UTC",
+  "updated_at": "2026-04-20 22:45:30 UTC",
   "count": 3521,
   "data": [
     {
@@ -475,17 +475,17 @@
       "speed": 2762
     },
     {
-      "ip": "103.145.34.141",
+      "ip": "103.156.15.210",
       "port": 1111,
-      "protocol": "Http",
+      "protocol": "Https",
       "country": "ID",
       "anonymity": "Elite",
       "speed": 2785
     },
     {
-      "ip": "103.156.15.210",
+      "ip": "103.145.34.141",
       "port": 1111,
-      "protocol": "Https",
+      "protocol": "Http",
       "country": "ID",
       "anonymity": "Elite",
       "speed": 2785
@@ -715,18 +715,18 @@
       "speed": 3546
     },
     {
-      "ip": "103.173.139.221",
-      "port": 8080,
-      "protocol": "Https",
-      "country": "ID",
-      "anonymity": "Elite",
-      "speed": 3566
-    },
-    {
       "ip": "112.198.18.206",
       "port": 8080,
       "protocol": "Http, Https",
       "country": "PH",
+      "anonymity": "Elite",
+      "speed": 3566
+    },
+    {
+      "ip": "103.173.139.221",
+      "port": 8080,
+      "protocol": "Https",
+      "country": "ID",
       "anonymity": "Elite",
       "speed": 3566
     },
