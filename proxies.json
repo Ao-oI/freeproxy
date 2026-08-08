@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08 06:53:58 UTC",
+  "updated_at": "2026-08-08 07:50:30 UTC",
   "count": 2660,
   "data": [
     {
@@ -955,17 +955,17 @@
       "speed": 2722
     },
     {
-      "ip": "106.14.91.83",
-      "port": 8443,
-      "protocol": "Http, Socks4",
+      "ip": "106.14.104.220",
+      "port": 5003,
+      "protocol": "Http",
       "country": "CN",
       "anonymity": "Elite",
       "speed": 2737
     },
     {
-      "ip": "106.14.104.220",
-      "port": 5003,
-      "protocol": "Http",
+      "ip": "106.14.91.83",
+      "port": 8443,
+      "protocol": "Http, Socks4",
       "country": "CN",
       "anonymity": "Elite",
       "speed": 2737
@@ -1427,18 +1427,18 @@
       "speed": 4456
     },
     {
-      "ip": "109.73.192.102",
-      "port": 1080,
-      "protocol": "Http",
-      "country": "RU",
-      "anonymity": "Elite",
-      "speed": 4461
-    },
-    {
       "ip": "139.224.186.221",
       "port": 9999,
       "protocol": "Socks4",
       "country": "CN",
+      "anonymity": "Elite",
+      "speed": 4461
+    },
+    {
+      "ip": "109.73.192.102",
+      "port": 1080,
+      "protocol": "Http",
+      "country": "RU",
       "anonymity": "Elite",
       "speed": 4461
     },
